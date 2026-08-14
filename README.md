@@ -1,0 +1,2 @@
+# 2025-29_DeepayanBiswas_25scs1003001464_3rdSem_2cse35
+Machine Learning System that classifies land degradation severity (Low/Moderate/High) across UttarPradesh using tuned logistics regression model trained on land cover , climate , and soil data for 22,645 grid cells across 20 Disctricts. Build during the MARS internship, 2025-29. Includes SHAP explainability and a deployed prediction dashboard.
